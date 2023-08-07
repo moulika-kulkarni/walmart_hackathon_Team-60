@@ -10,4 +10,4 @@ The proposed model's alignment with credit card fraud detection lies in its abil
 fraudulent activities. Moreover, the Random Forest's capability to identify the most important features contributing to the predictions allows for better interpretability and understanding of the fraud 
 detection process.
 In conclusion, the proposed credit card fraud detection machine learning model based on the Random Forest algorithm presents a promising solution to combat credit card fraud in real-time, leveraging ensemble 
-learning to achieve accuracy, efficiency, and interpretability, ultimately bolstering the security of financial systems.
+learning to achieve accuracy, efficiency, and interpretability, ultimately bolstering the security of financial systems. 
